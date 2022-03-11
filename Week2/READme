@@ -1,0 +1,8 @@
+Week 2 is all about studying the perceptron algorithm and some of its modifications.
+Tasks:
+1. Implement perceptron
+2.Implement averaged perceptron
+3.Implement evaluation strategies
+4. Evaluating a classifier
+5. Evaluating a learning algorithm with a fixed dataset (Cross-Validation)
+6. Evaluating a learning algorithm using a data source

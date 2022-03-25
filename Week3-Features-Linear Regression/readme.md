@@ -5,4 +5,4 @@ Key points:
 * Linear Classifier
 * Polynomial Basis
 
-I attached the Jupyter notebook which is my experiment of implementing linear regression model on Irish dataset :)
+I attached the Jupyter notebook which is my experiment on implementing linear regression model on Irish dataset :)

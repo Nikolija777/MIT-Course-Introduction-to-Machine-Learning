@@ -4,3 +4,5 @@ Key points:
 * Feature representation 
 * Linear Classifier
 * Polynomial Basis
+
+I attached the Jupyter notebook which is my experiment of implenting linear regression model on Irish dataset :)

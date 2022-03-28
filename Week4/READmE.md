@@ -1,4 +1,4 @@
-# Margin Maximization
+# :sparkler: Margin Maximization
 
 Key Points:
 * Logistic regression

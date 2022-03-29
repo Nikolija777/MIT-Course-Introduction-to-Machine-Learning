@@ -9,3 +9,4 @@ Models:
  * K-Nearest Neighbors Algorithm
  * Support Vector Machine
  
+Models on 'diabetes.csv' and sklearn digits
